@@ -1,24 +1,30 @@
 namespace fake_bank_app.Controllers
 {
+    using fake_bank_app.models;
     using Microsoft.AspNetCore.Mvc;
 
     [Route("api/[controller]")]
     [ApiController]
     public class TransactionController : ControllerBase
     {
-        private readonly TransactionService _transactionService;
-        public TransactionController(TransactionService transactionService)
+        private readonly UserTransactionService _userTransactionService;
+        public TransactionController(UserTransactionService userTransactionService)
         {
-            _transactionService = transactionService;
+            _userTransactionService = userTransactionService;
         }
         // GET api/values
         [HttpGet]
         [Route("GetTransaction")]
         public ActionResult<Transaction> GetTransaction()
         {
-            var test = _transactionService.GetTransaction();
+            return _userTransactionService.GetTransaction();
+        }
 
-            return test;
+        [HttpGet]
+        [Route("GetUser")]
+        public ActionResult<User> GetUser()
+        {
+            return _userTransactionService.GetUser();
         }
     }
 }

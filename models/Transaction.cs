@@ -1,4 +1,4 @@
-namespace fake_bank_app
+namespace fake_bank_app.models
 {
     using MongoDB.Bson;
     using MongoDB.Bson.Serialization.Attributes;

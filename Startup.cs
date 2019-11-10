@@ -1,5 +1,6 @@
 ﻿namespace fake_bank_app
 {
+    using fake_bank_app.models;
     using Microsoft.AspNetCore.Builder;
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.AspNetCore.Mvc;
@@ -23,7 +24,7 @@
             services.AddSingleton<ITransactionDatabaseSettings>(sp =>
                 sp.GetRequiredService<IOptions<TransactionDatabaseSettings>>().Value);
 
-            services.AddSingleton<TransactionService>();
+            services.AddSingleton<UserTransactionService>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
