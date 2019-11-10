@@ -1,0 +1,16 @@
+/Users/past7/Code/fake-bank-app/fake-bank-app/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/past7/Code/fake-bank-app/fake-bank-app/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/past7/Code/fake-bank-app/fake-bank-app/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/past7/Code/fake-bank-app/fake-bank-app/bin/Debug/netcoreapp2.1/fake-bank-app.deps.json
+/Users/past7/Code/fake-bank-app/fake-bank-app/bin/Debug/netcoreapp2.1/fake-bank-app.runtimeconfig.json
+/Users/past7/Code/fake-bank-app/fake-bank-app/bin/Debug/netcoreapp2.1/fake-bank-app.runtimeconfig.dev.json
+/Users/past7/Code/fake-bank-app/fake-bank-app/bin/Debug/netcoreapp2.1/fake-bank-app.dll
+/Users/past7/Code/fake-bank-app/fake-bank-app/bin/Debug/netcoreapp2.1/fake-bank-app.pdb
+/Users/past7/Code/fake-bank-app/fake-bank-app/obj/Debug/netcoreapp2.1/fake-bank-app.csprojAssemblyReference.cache
+/Users/past7/Code/fake-bank-app/fake-bank-app/obj/Debug/netcoreapp2.1/fake-bank-app.RazorAssemblyInfo.cache
+/Users/past7/Code/fake-bank-app/fake-bank-app/obj/Debug/netcoreapp2.1/fake-bank-app.RazorAssemblyInfo.cs
+/Users/past7/Code/fake-bank-app/fake-bank-app/obj/Debug/netcoreapp2.1/fake-bank-app.AssemblyInfoInputs.cache
+/Users/past7/Code/fake-bank-app/fake-bank-app/obj/Debug/netcoreapp2.1/fake-bank-app.AssemblyInfo.cs
+/Users/past7/Code/fake-bank-app/fake-bank-app/obj/Debug/netcoreapp2.1/fake-bank-app.RazorTargetAssemblyInfo.cache
+/Users/past7/Code/fake-bank-app/fake-bank-app/obj/Debug/netcoreapp2.1/fake-bank-app.dll
+/Users/past7/Code/fake-bank-app/fake-bank-app/obj/Debug/netcoreapp2.1/fake-bank-app.pdb
